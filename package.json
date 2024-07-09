@@ -1,0 +1,29 @@
+{
+  "name": "merci-backend",
+  "version": "1.0.0",
+  "description": "backend of full-stack shopping app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atifahmd1/merci-backend.git"
+  },
+  "keywords": [
+    "merci",
+    "backend",
+    "ecommerce-backend",
+    "full-stack"
+  ],
+  "author": "Atif Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atifahmd1/merci-backend/issues"
+  },
+  "homepage": "https://github.com/atifahmd1/merci-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.2"
+  }
+}
